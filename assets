@@ -1,0 +1,11 @@
+<script>start("/Users/Apple/Desktop/dev/picture_tile_slider/build/web/assets/");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("assets","assets",1,128,"128 B",1736942959,"1/15/25, 1:09:19 PM");</script>
+<script>addRow("fonts","fonts",1,96,"96 B",1735316032,"12/27/24, 5:13:52 PM");</script>
+<script>addRow("packages","packages",1,96,"96 B",1735316030,"12/27/24, 5:13:50 PM");</script>
+<script>addRow("shaders","shaders",1,96,"96 B",1736943053,"1/15/25, 1:10:53 PM");</script>
+<script>addRow("AssetManifest.bin","AssetManifest.bin",0,419,"419 B",1736943053,"1/15/25, 1:10:53 PM");</script>
+<script>addRow("AssetManifest.bin.json","AssetManifest.bin.json",0,562,"562 B",1736943053,"1/15/25, 1:10:53 PM");</script>
+<script>addRow("AssetManifest.json","AssetManifest.json",0,383,"383 B",1736943053,"1/15/25, 1:10:53 PM");</script>
+<script>addRow("FontManifest.json","FontManifest.json",0,208,"208 B",1736943053,"1/15/25, 1:10:53 PM");</script>
+<script>addRow("NOTICES","NOTICES",0,1765688,"1.7 MB",1736943053,"1/15/25, 1:10:53 PM");</script>

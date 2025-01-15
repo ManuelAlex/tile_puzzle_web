@@ -1,0 +1,10 @@
+<script>start("/Users/Apple/Desktop/dev/picture_tile_slider/build/web/canvaskit/");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("chromium","chromium",1,160,"160 B",1735316013,"12/27/24, 5:13:33 PM");</script>
+<script>addRow("canvaskit.js","canvaskit.js",0,93434,"91.2 kB",1733825214,"12/10/24, 11:06:54 AM");</script>
+<script>addRow("canvaskit.js.symbols","canvaskit.js.symbols",0,1327663,"1.3 MB",1733825214,"12/10/24, 11:06:54 AM");</script>
+<script>addRow("canvaskit.wasm","canvaskit.wasm",0,6777064,"6.5 MB",1733825214,"12/10/24, 11:06:54 AM");</script>
+<script>addRow("skwasm.js","skwasm.js",0,69530,"67.9 kB",1733825338,"12/10/24, 11:08:58 AM");</script>
+<script>addRow("skwasm.js.symbols","skwasm.js.symbols",0,1459004,"1.4 MB",1733825338,"12/10/24, 11:08:58 AM");</script>
+<script>addRow("skwasm.wasm","skwasm.wasm",0,3239360,"3.1 MB",1733825338,"12/10/24, 11:08:58 AM");</script>
+<script>addRow("skwasm.worker.js","skwasm.worker.js",0,2823,"2.8 kB",1733825338,"12/10/24, 11:08:58 AM");</script>
