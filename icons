@@ -1,6 +1,0 @@
-<script>start("/Users/Apple/Desktop/dev/picture_tile_slider/build/web/icons/");</script>
-<script>onHasParentDirectory();</script>
-<script>addRow("Icon-192.png","Icon-192.png",0,5292,"5.2 kB",1695832098,"9/27/23, 5:28:18 PM");</script>
-<script>addRow("Icon-512.png","Icon-512.png",0,8252,"8.1 kB",1695832098,"9/27/23, 5:28:18 PM");</script>
-<script>addRow("Icon-maskable-192.png","Icon-maskable-192.png",0,5594,"5.5 kB",1725276151,"9/2/24, 12:22:31 PM");</script>
-<script>addRow("Icon-maskable-512.png","Icon-maskable-512.png",0,20998,"20.5 kB",1725276151,"9/2/24, 12:22:31 PM");</script>
